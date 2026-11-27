@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "anio": 1967
+  },
+  {
+    "id": 2,
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "anio": 1944
+  },
+  {
+    "id": 3,
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "anio": 1982
+  },
+  {
+    "id": 4,
+    "titulo": "hola",
+    "autor": "yo",
+    "anio": 2026
+  },
+  {
+    "id": 5,
+    "titulo": "mejor",
+    "autor": "juan",
+    "anio": 1990
+  }
+]
